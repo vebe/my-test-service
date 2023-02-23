@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: api-notifications
+  annotations:
+    github.com/project-slug: quickbutik/api-notifications
+spec:
+  type: other
+  lifecycle: unknown
