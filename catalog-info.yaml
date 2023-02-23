@@ -1,9 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: api-notifications
+  name: my-test-service
   annotations:
-    github.com/project-slug: quickbutik/api-notifications
+    github.com/project-slug: vebe/my-test-service
 spec:
   type: other
   lifecycle: unknown
+  owner: vb
